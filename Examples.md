@@ -27,9 +27,9 @@
      COUNT=COUNT+1
   END WHILE
       PRINT "All measurments processed"
-      ```
+      
 # - FOR
-   SET COUNT=0
+``` SET COUNT=0
    FOR COUNT<15
      PRINT COUT
      PRINT""Enter Measurment"
