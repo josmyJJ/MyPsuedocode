@@ -12,7 +12,7 @@
       RESULT = MEASURMENT*25.4
       PRINT RESULT
       COUNT=COUNT+1
-    WHILE COUNT<14
+    WHILE COUNT<15
     END DOWHILE
      PRINT "All measurments processed"
 
