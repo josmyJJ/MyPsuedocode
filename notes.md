@@ -1,6 +1,10 @@
 # This is my file for notes
 How to remove a link?
   rmdir /s MyPsuedocode2
+git pull origin master=== compares the changes made on the local and compares to the github
+
+
+
 CONDITIONS
 
 INPUT USERNAME
