@@ -13,6 +13,7 @@
       PRINT RESULT
       COUNT=COUNT+1
     WHILE COUNT<15
+
     END DOWHILE
      PRINT "All measurments processed"
 
