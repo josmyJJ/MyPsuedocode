@@ -18,7 +18,11 @@
      PRINT "All measurments processed"
 
 # - WHILE
+<<<<<<< HEAD
    SET COUNT = zero
+=======
+``` SET COUNT to zero
+>>>>>>> c6acfcac316760e3bb88d52a64caa45081467483
    WHILE COUNT<15
      PRINT COUNT
      PRINT "Enter Measurment"
@@ -27,9 +31,15 @@
      PRINT THE RESULT
      ADD ONE TO THE COUNT
   END WHILE
-      PRINT "All measurments processed"
+      PRINT "All measurments processed" 
+ ```
+          
 # - FOR
+<<<<<<< HEAD
    SET COUNT = zero
+=======
+``` SET COUNT to zero
+>>>>>>> c6acfcac316760e3bb88d52a64caa45081467483
    FOR COUNT<15
      PRINT COUT
      PRINT"Enter Measurment"
@@ -39,7 +49,7 @@
      ADD ONE TO THE COUNT
    END FOR
      PRINT "All measurments processed"
-     
+  ```
   
 
     

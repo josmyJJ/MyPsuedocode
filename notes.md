@@ -2,7 +2,10 @@
 How to remove a link?
   rmdir /s MyPsuedocode2
 git pull origin master=== compares the changes made on the local and compares to the github
-
+To configure a user name
+  git config --list
+  git config --global user.name "some one else"
+  git config --global user.email "rando@email.com"
 
 
 CONDITIONS
