@@ -27,8 +27,9 @@
      PRINT THE RESULT
      ADD ONE TO THE COUNT
   END WHILE
-      PRINT "All measurments processed"
-      ```
+      PRINT "All measurments processed" 
+ ```
+          
 # - FOR
 ``` SET COUNT to zero
    FOR COUNT<15
