@@ -27,7 +27,7 @@
      COUNT=COUNT+1
   END WHILE
       PRINT "All measurments processed"
-      
+```      
 # - FOR
 ``` SET COUNT=0
    FOR COUNT<15
@@ -40,7 +40,7 @@
    END FOR
      PRINT "All measurments processed"
      
-  
+  ```
 
     
  
